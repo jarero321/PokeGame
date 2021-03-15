@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6f5353c.chunk.css",
+    "main.js": "/static/js/main.d44d65a7.chunk.js",
+    "main.js.map": "/static/js/main.d44d65a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0682879b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0682879b.js.map",
+    "static/js/2.f2983d92.chunk.js": "/static/js/2.f2983d92.chunk.js",
+    "static/js/2.f2983d92.chunk.js.map": "/static/js/2.f2983d92.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c6f5353c.chunk.css.map": "/static/css/main.c6f5353c.chunk.css.map",
+    "static/js/2.f2983d92.chunk.js.LICENSE.txt": "/static/js/2.f2983d92.chunk.js.LICENSE.txt",
+    "static/media/Card.f7e0f9ac.svg": "/static/media/Card.f7e0f9ac.svg",
+    "static/media/Fondo-home.c81afc35.svg": "/static/media/Fondo-home.c81afc35.svg",
+    "static/media/Loading.09a72204.svg": "/static/media/Loading.09a72204.svg",
+    "static/media/PokeGame.09d09837.ttf": "/static/media/PokeGame.09d09837.ttf",
+    "static/media/Pokeball.50ed9398.svg": "/static/media/Pokeball.50ed9398.svg",
+    "static/media/fondoback.4fa02dd8.svg": "/static/media/fondoback.4fa02dd8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0682879b.js",
+    "static/js/2.f2983d92.chunk.js",
+    "static/css/main.c6f5353c.chunk.css",
+    "static/js/main.d44d65a7.chunk.js"
+  ]
+}
