@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Poject Created with Create app React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+project that consumes a pokemon api and renders random cards to hit
 
 ## Available Scripts
 
