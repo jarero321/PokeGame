@@ -2,19 +2,18 @@ import HomePage from "./components/HomePage";
 import Game from "./components/Game"
 import './App.css';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 
 function App() {
   return (
     <Router>
-      <div className="App">
-      <Route exact path="/" component={HomePage} />
-      <Route exact path="/Game" component={Game} />
-      </div>
+        <div className="App">
+          <Route exact path="/" component={HomePage} />
+          <Route  path="/Game" component={Game} />
+        </div>
     </Router>
   );
 }
