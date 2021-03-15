@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PokeGame/static/css/main.c6f5353c.chunk.css",
+    "main.css": "/PokeGame/static/css/main.da42055e.chunk.css",
     "main.js": "/PokeGame/static/js/main.d44d65a7.chunk.js",
     "main.js.map": "/PokeGame/static/js/main.d44d65a7.chunk.js.map",
     "runtime-main.js": "/PokeGame/static/js/runtime-main.fc978998.js",
@@ -8,7 +8,7 @@
     "static/js/2.3c864c62.chunk.js": "/PokeGame/static/js/2.3c864c62.chunk.js",
     "static/js/2.3c864c62.chunk.js.map": "/PokeGame/static/js/2.3c864c62.chunk.js.map",
     "index.html": "/PokeGame/index.html",
-    "static/css/main.c6f5353c.chunk.css.map": "/PokeGame/static/css/main.c6f5353c.chunk.css.map",
+    "static/css/main.da42055e.chunk.css.map": "/PokeGame/static/css/main.da42055e.chunk.css.map",
     "static/js/2.3c864c62.chunk.js.LICENSE.txt": "/PokeGame/static/js/2.3c864c62.chunk.js.LICENSE.txt",
     "static/media/Card.f7e0f9ac.svg": "/PokeGame/static/media/Card.f7e0f9ac.svg",
     "static/media/Fondo-home.c81afc35.svg": "/PokeGame/static/media/Fondo-home.c81afc35.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc978998.js",
     "static/js/2.3c864c62.chunk.js",
-    "static/css/main.c6f5353c.chunk.css",
+    "static/css/main.da42055e.chunk.css",
     "static/js/main.d44d65a7.chunk.js"
   ]
 }
