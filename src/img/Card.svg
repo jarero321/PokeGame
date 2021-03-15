@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="486" height="694" viewBox="0 0 486 694">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f43642"/>
+      <stop offset="0.531" stop-color="#b52271"/>
+      <stop offset="0.711" stop-color="#a1158c"/>
+      <stop offset="1" stop-color="#7d119b"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(1083 85)">
+    <path id="Trazado_1" data-name="Trazado 1" d="M0,0H486V694H0Z" transform="translate(-1083 -85)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
